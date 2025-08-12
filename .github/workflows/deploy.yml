@@ -14,7 +14,7 @@ on:
 env:
   # `BASE_URL` determines the website is served from, including CSS & JS assets
   # You may need to change this to `BASE_URL: ''`
-  BASE_URL: /${{ github.event.repository.name }}
+  BASE_URL: alanmlewis.github.io/MathsforChemists
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -69,7 +69,8 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build --html
+        jupyter book start
+        #jupyter book build --html
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
