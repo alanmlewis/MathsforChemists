@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 5aca920b-b02c-4052-865b-a31e9fa545af
+  title: University of York - Maths for Chemists
+  description: A website of accessible maths notes for chemists
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: home.md
+    - file: workshop1.md
+    - file: workshop2.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
