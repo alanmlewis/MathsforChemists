@@ -1,0 +1,2 @@
+# To interactively browser Jupyter content with MyST
+jupyterlab_myst
