@@ -5,7 +5,7 @@
 
 ## Non-Integer Numbers
 
-There are three usual ways of writing numbers which are not integers (whole numbers): fractions, percentages and decimals. For more details about how to handle these numbers and examples of how they are used in Chemistry, see sections 1.3, 1.4 and 1.5 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395).
+There are three usual ways of writing numbers which are not integers (whole numbers): fractions, percentages and decimals. For more details about how to handle these numbers and examples of how they are used in Chemistry, see sections 1.3, 1.4 and 1.5 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.1.3).
 
 ### Fractions
 - Fractions can be thought of as the ratio between two numbers, or simply as the result of dividing one number by another:  
@@ -43,7 +43,7 @@ There are three usual ways of writing numbers which are not integers (whole numb
 
 ## Powers
 
-Below is a summary of the key rules for understanding and manipulating powers. More details about powers and examples of how they are used in Chemistry are in sections 2.1 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395).
+Below is a summary of the key rules for understanding and manipulating powers. More details about powers and examples of how they are used in Chemistry are in sections 2.1 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.2.1).
 
 - $x^n = x \times x \times x \cdots (n \text{ times})$
 - $x^{-n} = \frac{1}{x^n}$

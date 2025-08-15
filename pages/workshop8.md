@@ -46,7 +46,7 @@ $$
 
 ## Differentiation
 
-Differentiation is an important topic in chemistry, and is a method for calculating the gradient of a function. If a function is written as $f(x)$, its derivative is $\frac{\mathrm{d}}{\mathrm{d}x} f(x)$, or sometimes $f^\prime(x)$; if the function is labelled with $y$ or some other letter, then the derivative is usually written as $\frac{\mathrm{d}y}{\mathrm{d}x}$. If differentiation is new for you, or you need a refresher, Sections 4.1–4.5 in the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395) give a really good introduction to what it is and how it's used in chemistry.  
+Differentiation is an important topic in chemistry, and is a method for calculating the gradient of a function. If a function is written as $f(x)$, its derivative is $\frac{\mathrm{d}}{\mathrm{d}x} f(x)$, or sometimes $f^\prime(x)$; if the function is labelled with $y$ or some other letter, then the derivative is usually written as $\frac{\mathrm{d}y}{\mathrm{d}x}$. If differentiation is new for you, or you need a refresher, Sections 4.1–4.5 in the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.4.1) give a really good introduction to what it is and how it's used in chemistry.  
 
 The main rules for differentiation are summarised below:  
 

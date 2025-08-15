@@ -11,7 +11,7 @@ f(x) = x^2 + bx + c = (x+A)(x+B)
 $$  
 Here the second form is called a factorised quadratic equation.
 
-To solve a quadratic equation, we need to find the value(s) of $x$ where $f(x)=0$. The three main methods to do this are described in detail in Section 2.9 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395), and are summarised here. It doesn't matter which method you use to solve a quadratic equation!
+To solve a quadratic equation, we need to find the value(s) of $x$ where $f(x)=0$. The three main methods to do this are described in detail in Section 2.9 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.2.9), and are summarised here. It doesn't matter which method you use to solve a quadratic equation!
 
 - **Completing the square**  
   $$
@@ -36,7 +36,7 @@ To solve a quadratic equation, we need to find the value(s) of $x$ where $f(x)=0
 
 Simultaneous equations are a set of multiple equations, each of which contain multiple unknown variables. As long as we have at least as many equations as variables, we can find the value of all of the variables. When we have 2 unknown variables, we can solve these sets of equations by substituting one equation into the other, or subtracting one equation from the other and rearranging until we find a value for one of the variables. We can then use that value to find the value of the other variable.
 
-There are lots of examples of simultaneous equations and how they are used in chemistry in Section 2.7 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395); we'll give one example of how simultaneous equations can provide important chemical information here. The Arrhenius equation  
+There are lots of examples of simultaneous equations and how they are used in chemistry in Section 2.7 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.2.7); we'll give one example of how simultaneous equations can provide important chemical information here. The Arrhenius equation  
 $$
 \ln k = \ln A - \frac{E_a}{RT}
 $$  

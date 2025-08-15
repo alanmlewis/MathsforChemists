@@ -7,7 +7,7 @@
 
 Functions describe the relationship between two values. For example, $y=2x$ means that the value of $y$ is always twice as big as the value of $x$. Functions are also commonly written using brackets to show which quantities are involved in the relationship. For example, we could write $f(x) = x^2$; this highlights that the function $f(x)$ depends on the value of $x$.
 
-In general, we can use any symbols we like to write down functions: $\phi(z) = z^2-z+1$ and $g(\theta) = \sin{\theta}$ are both valid functions. We can also write functions which describe the relationship between multiple variables: $f(r,\theta) = r\cos{\theta}$ tells us how the value of the function changes if we change the value of either $r$ or $\theta$. Whenever we are using a function which is related to a real-life experiment, we should make sure we always define what all of the terms in our function mean. For more information about functions, see Section 1.6 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395).
+In general, we can use any symbols we like to write down functions: $\phi(z) = z^2-z+1$ and $g(\theta) = \sin{\theta}$ are both valid functions. We can also write functions which describe the relationship between multiple variables: $f(r,\theta) = r\cos{\theta}$ tells us how the value of the function changes if we change the value of either $r$ or $\theta$. Whenever we are using a function which is related to a real-life experiment, we should make sure we always define what all of the terms in our function mean. For more information about functions, see Section 1.6 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.1.6).
 
 ---
 
@@ -31,7 +31,7 @@ Here, we have written $T$ as function of $p$, $V$ and $n$; $R$ is a constant.
 
 ![The energy of a spring as a function of its length.](spring.png)
 
-It is often helpful to show visually how one variable depends on another using a graph. By convention, we usually do this by writing the variable we have control over (the dependent variable) on the horizontal axis of the graph, and the other variable (the independent variable) on the vertical axis. This is covered in more detail in Section 1.7 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395).
+It is often helpful to show visually how one variable depends on another using a graph. By convention, we usually do this by writing the variable we have control over (the dependent variable) on the horizontal axis of the graph, and the other variable (the independent variable) on the vertical axis. This is covered in more detail in Section 1.7 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.1.7).
 
 For example, the function which describes how much energy is stored in a spring as a function of how much the spring is stretch (or squashed) is  
 $$

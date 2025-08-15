@@ -1,7 +1,7 @@
 # Workshop 9: Integration
 **Authors:** Lizzie Wheeldon and Alan M. Lewis
 
-If integration is new for you, Section 5 in the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395) gives a good introduction. For those who have learnt about integration before, this summary intends to remind you of the key points.
+If integration is new for you, Section 5 in the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#section.5) gives a good introduction. For those who have learnt about integration before, this summary intends to remind you of the key points.
 
 ---
 
