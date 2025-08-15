@@ -28,7 +28,7 @@ The most common way of measuring the uncertainty in an experiment is to do it mu
 
 $$
 \text{mean} = \bar{x} = \frac{1}{N}\sum_i^N x_i, 
-\qquad 
+\\
 \text{standard error} = \sigma_{\bar{x}} 
 = \frac{1}{\sqrt{N}}\sqrt{\frac{1}{N-1}\sum_i^N (x_i - \bar{x})^2}
 $$  
@@ -38,7 +38,7 @@ Sometimes it is better to use the standard deviation or the variance as the esti
 $$
 \text{standard deviation} = \sigma_x 
 = \sqrt{\frac{1}{N-1}\sum_i^N (x_i - \bar{x})^2};
-\qquad
+\\
 \text{variance} = \sigma_x^2 
 = \frac{1}{N-1}\sum_i^N (x_i - \bar{x})^2
 $$  

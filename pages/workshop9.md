@@ -55,8 +55,8 @@ $$
 We’ve used square brackets $[\cdots]_a^b$ to show that we will evaluate the function we’ve just integrated between the limits $a$ and $b$. Inserting all of the constants into the equation gives:
 
 $$
-W = (\tfrac{1}{2}\times2\times7^2 - 2\times7\times5) 
-- (\tfrac{1}{2}\times2\times5^2 - 2\times5\times5) 
+W = \int_5^7 F(x)\,\mathrm{d}x = (\tfrac{1}{2}\times2\times7^2 - 2\times7\times5)
+- (\tfrac{1}{2}\times2\times5^2 - 2\times5\times5) \\
 = -21 + 25 = 4\ \text{N mm}
 $$
 
@@ -64,9 +64,9 @@ We can choose these limits to be any values: the work done by stretching the str
 
 $$
 W = \int_7^9 F(x)\,\mathrm{d}x 
-= (\tfrac{1}{2}\times2\times9^2 - 2\times9\times5) 
-- (\tfrac{1}{2}\times2\times7^2 - 2\times7\times5) 
-= 12\ \text{N mm}.
+= (\tfrac{1}{2}\times2\times9^2 - 2\times9\times5)
+- (\tfrac{1}{2}\times2\times7^2 - 2\times7\times5) \\
+= -9 + 21 = 12\ \text{N mm}.
 $$
 
 This answer makes physical sense — it take more work to stretch a spring 2 mm when it is already stretched.
