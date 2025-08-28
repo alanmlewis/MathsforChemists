@@ -1,0 +1,13 @@
+format: jb-book
+root: home.md 
+chapters:
+  - file: pages/units.md
+  - file: pages/workshop1.md
+  - file: pages/workshop2.md
+  - file: pages/workshop3.md
+  - file: pages/workshop4.md
+  - file: pages/workshop5.md
+  - file: pages/workshop6.md
+  - file: pages/workshop7.md
+  - file: pages/workshop8.md
+  - file: pages/workshop9.md

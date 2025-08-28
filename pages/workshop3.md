@@ -8,9 +8,11 @@
 Exponential functions combine two things we've seen elsewhere: they are functions in which one of the variables is a power. $y = a^x$ is an exponential function. We can use the same rules for manipulating powers to manipulate exponential functions. They are discussed in more detail in section 2.4 of the [Maths for Chemists document](https://edu.rsc.org/download?ac=15395#subsection.2.4).
 
 There is a particular type of exponential function which is very common, and very important, and so it is called "The Exponential Function". This is when $a$ is equal to a particular value called $e$:  
+
 $$
 e = 2.718281 \cdots
 $$
+
 Just like $\pi$, $e$ is just a name we give to a specific number. That number is "transcendental" - it goes on forever, and can't be written as a fraction. The reason the exponential function $y = e^x$ is important is because when you differentiate it, you get the same function again - we'll talk about this more in a later workshop.
 
 ---
@@ -33,6 +35,7 @@ A thorough discussion of trigonometry is found in Section 3.2 of the [Maths for 
 - Angles can be written in degrees ($^\circ$) or radians; these are just different units for angles. There are 360$^\circ$ or 2$\pi$ radians in a circle.  
 
 - In a right angled triangle, trigonometric functions are given by the ratios of the lengths of its sides:  
+
 $$
 \sin{\theta} = \frac{\text{Opposite}}{\text{Hypotenuse}}; \quad 
 \cos{\theta} = \frac{\text{Adjacent}}{\text{Hypotenuse}}; \quad 
@@ -40,11 +43,13 @@ $$
 $$
 
 - In a right angled triangle, the square of the length of the longest side is equal to the sum of the square of the lengths of the other two sides (this is called Pythagoras's Theorem):  
+
 $$
 \text{Hypotenuse}^2 = \text{Opposite}^2 + \text{Adjacent}^2
 $$
 
 - All trigonometric functions have an inverse:  
+
 $$
 \sin^{-1} \left(\sin{\theta}\right) = \theta; \quad 
 \cos^{-1} \left(\cos{\theta}\right) = \theta; \quad 

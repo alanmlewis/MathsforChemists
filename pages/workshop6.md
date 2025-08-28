@@ -33,9 +33,11 @@ A special type of constructive interference produces “standing waves” — wa
 ## Electromagnetic Radiation
 
 Electromagnetic radiation is the term for all waves which travel at the speed of light, $c = 2.998 \times 10^8$ m s$^{-1}$. This includes visible light, radio waves, UV and IR radiation, and X-rays, amongst others. The energy of electromagnetic radiation is proportion to its frequency:  
+
 $$
 E = h\nu
 $$  
+
 where $h$ is called Planck's constant, and is equal to $h = 6.626 \times 10^{-34}$ J s.
 
 Electromagnetic radiation can also be described as particles, called photons. This is sometimes called “wave-particle duality” and is a fundamental part of quantum theory.

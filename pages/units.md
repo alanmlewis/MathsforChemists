@@ -18,12 +18,14 @@ Almost all physical quantities have units, which tell us what type of physical q
 ## Combining Units  
 
 We can combine units by multiplying them together or dividing by them. The result is called a compound unit. For example, we can create a compound unit for speed: m s⁻¹.  
+
 $$
 \text{Speed = Distance / Time} \\
 \text{Speed} = 5\, \text{m} / 10\, \text{s} = 0.5\, \text{m s}^{-1}
 $$  
 
 Sometimes compound units have specific names, which makes them simpler to write. For example, one unit of force is defined as the force required to make one kilogram move one meter per second faster in one second, or in other words to accelerate one kilogram by one meter per second squared.  
+
 $$
 \text{Force = Mass} \times \text{Acceleration} \\
 \text{Force} = 1\, \text{kg} \times 1\, \text{m s}^{-2} = 1\, \text{kg m s}^{-2} = 1 \text{N}
@@ -32,10 +34,13 @@ $$
 We call one unit of force one Newton (symbol N), mostly because that's faster than writing the S.I. unit of force (kg m s⁻²) every time.
 
 In more complex equations, we might find that we can cancel out units to simplify them, just like we might cancel out numbers in a fraction. For example, the equation for the electrostatic energy between two charged particles is:  
+
 $$
 E = \frac{q_1q_2}{4\pi\epsilon_0 r}
 $$  
+
 In this equation, $q_1$ and $q_2$ are the charges of the two particles and have units of Coulombs (C), which in S.I. units is equal to A·s. $r$ is the distance between the two particles, and so has units m, and $\epsilon_0$ is a physical constant called the vacuum permittivity with units C²·m⁻²·N⁻¹. Combining all of these units:  
+
 $$
 \text{Units of } E = \frac{\text{C}^2}{\text{C}^2 \text{m}^{-2} \text{N}^{-1} \text{m}} = \frac{1}{\text{m}^{-1} \text{N}^{-1}} = \text{N m} = \text{kg m}^2 \text{s}^{-2}
 $$  

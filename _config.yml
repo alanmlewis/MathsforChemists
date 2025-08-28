@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+title: University of York - Maths for Chemists
+description: A website of accessible maths notes for chemists
+# keywords: []
+# authors: []
+# github: alanmlewis/MathsforChemists
+execute:
+  execute_notebooks: force    
+
+only_build_toc_files: true
+exclude_patterns: [.jb1*,.jb2*]
+  #site:
+  #template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
