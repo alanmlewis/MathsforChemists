@@ -14,7 +14,7 @@ Classical mechanics tells us how objects move, provided they are large enough th
 - **Newton's First Law**: objects only change their velocity when a force is applied.  
 - **Newton's Second Law**: the force applied to an object is equal to the rate of change of its momentum.  
   
-$$
+  $$
   F = ma
   $$
 
@@ -35,10 +35,10 @@ $$
 
   - **Potential Energy**: the energy stored in an object. For example, gravitational energy is the energy stored in an object of mass $m$ at height $h$ above the Earth due to a gravitational field of strength $g$.
   
-  $$
+    $$
             \text{Gravitational Potential Energy} = mgh
-  $$
-  There are many types of potential energy, including chemical, elastic, and electrostatic potential energy.
+    $$
+    There are many types of potential energy, including chemical, elastic, and electrostatic potential energy.
    
 - **Angular Motion**: motion in a circle means that the object moving is constantly changing its velocity (because its direction constantly changes). Newton's First Law says there must be a force causing this change of velocity — this is called the centripetal force. Different terms are used to describe angular motion — angular momentum instead of momentum, torque instead of forces. These are described in [the detailed notes](https://github.com/alanmlewis/MathsforChemists/raw/refs/heads/main/notes/CM_ES_Notes.docx).
 
