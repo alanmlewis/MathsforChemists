@@ -23,7 +23,7 @@ $$
 - **Conservation of Energy**: Energy cannot be created or destroyed, only converted from one form to another. These forms include:
   - **Work** ($W$): the energy used to move an object a certain distance ($I$) against a force ($F$).  
     
-$$
+    $$
     W = - F I
     $$
 
@@ -38,7 +38,6 @@ $$
   $$
             \text{Gravitational Potential Energy} = mgh
   $$
-  
   There are many types of potential energy, including chemical, elastic, and electrostatic potential energy.
    
 - **Angular Motion**: motion in a circle means that the object moving is constantly changing its velocity (because its direction constantly changes). Newton's First Law says there must be a force causing this change of velocity — this is called the centripetal force. Different terms are used to describe angular motion — angular momentum instead of momentum, torque instead of forces. These are described in [the detailed notes](https://github.com/alanmlewis/MathsforChemists/raw/refs/heads/main/notes/CM_ES_Notes.docx).
